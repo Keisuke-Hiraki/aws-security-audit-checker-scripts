@@ -17,15 +17,12 @@ IAM Identity Center を使用して複数の AWS アカウントにスイッチ�
 ## ファイル構成
 
 ```
-switchrole_iic/
+aws-security-audit-checker-scripts/
 ├── check_security_hub_status.sh  # Security Hubチェックスクリプト
 ├── check_guardduty_status.sh     # GuardDutyチェックスクリプト
 ├── check_analyzer_status.sh      # Access Analyzerチェックスクリプト
 ├── accounts.list                 # チェック対象アカウント一覧
 ├── regions.list                  # チェック対象リージョン一覧
-├── security_hub_status.csv       # Security Hub結果（サンプル）
-├── guardduty_status.csv          # GuardDuty結果（サンプル）
-├── analyzer_status.csv           # Access Analyzer結果（サンプル）
 └── README.md                     # このファイル
 ```
 
