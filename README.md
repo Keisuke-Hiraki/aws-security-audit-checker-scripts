@@ -4,7 +4,7 @@ IAM Identity Center を使用して複数の AWS アカウントにスイッチ�
 
 詳細は、下記ブログをご参照ください。
 
-
+[IAM Identity Center を使って複数 AWS アカウントのセキュリティサービス有効化状況をチェックするスクリプトを作ってみた #SecurityHub - Qiita](https://qiita.com/HIRA_dayo/items/32854fedd8839ecbd1ed)
 
 ## 概要
 
